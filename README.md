@@ -34,7 +34,10 @@ As principais concorrentes da empresa Start Jeans são as americanas H&M e Macys
 ## Processo ( Passo a passo ) 
 
 - Passo a passo para calcular a resposta?
-  - Mediana do preço por categoria e tipo. 
+  - Mediana do preço por categoria e tipo.
+
+![alt text](https://github.com/IzabellaSouza/StarJeans/blob/928fd66795ebc5407cbd1ce814c24e69895b8d18/img/Tabela%2001.JPG)
+
 - Como será o gráfico ou tabela final?
   - Simulação da tabela final
 - Como será o local de entrega?
