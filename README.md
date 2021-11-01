@@ -1,5 +1,4 @@
-
-# STAR JEANS
+![alt text](https://github.com/IzabellaSouza/StarJeans/blob/ee9f05b87d0547dcccaec83166cb82ac12732bdb/img/STARJEANS.png)
 
 # O Problema de negócio
 
